@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "HE5AwMNHlauRMyAG0EWtF+BJJffzVauO6rAGjjBVrewTOrGlPQwa2EWqVINfrzRBPMvIijwTlwMSk5LZtz1FIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bharat\\Desktop\\Marsh Project\\Marsh Project\\Marsh Project\\Marsh Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
